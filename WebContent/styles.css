@@ -1,0 +1,12 @@
+body {
+	background: #222;
+	color: #fff;
+}
+
+.container {
+	margin: 150px auto
+}
+
+#exampleInputPassword1 {
+	margin-bottom: 25px;
+}
